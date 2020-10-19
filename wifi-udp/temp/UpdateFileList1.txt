@@ -1,0 +1,10 @@
+WitMotion-Udp.exe,13,0,
+Wit-Upgrade-Program.exe,612,1,
+ReplaceFileGrogram.exe,2,2,
+config.ini,1,30,
+configEN.ini,1,30,
+byn\WitMotion-Udp.resources.dll,4,30,
+byn-ER\WitMotion-Udp.resources.dll,4,30,
+zh-CN\WitMotion-Udp.resources.dll,4,30,
+SocketCommunication.dll,2,30,
+AD_EN\StartPlay.jpg,1,40,https://wiki.wit-motion.com/english/doku.php?id=wit-mall
